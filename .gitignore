@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+*.ipynb_checkpoints/*
+__pycache__/
+/utils/.ipynb_checkpoints/ssim-checkpoint.py
+/utils/.ipynb_checkpoints/metrics-checkpoint.py
+/configs/.ipynb_checkpoints/
+/trainers/.ipynb_checkpoints/
+/utils/.ipynb_checkpoints/complex-checkpoint.py
+
+#Platform related metadata
+.idea/
+
+#Runs from Tensorboard
+#events.out.tfevents*
