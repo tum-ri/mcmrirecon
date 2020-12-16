@@ -1,7 +1,7 @@
 # MRI Reconstruction
 
 A project developed as a part of Praktikum Machine Learning in Medical Imaging at the Technical University of Munich by
-- Devendra Vyas
+- [Devendra Vyas](https://github.com/skat00sh)
 - Fabian Groeger
 - Maik Dannecker
 - Viktor Studenyak
