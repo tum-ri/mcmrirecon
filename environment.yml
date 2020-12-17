@@ -1,7 +1,7 @@
 name: pytorch
 channels:
-  - anaconda
   - conda-forge
+  - anaconda
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
@@ -214,5 +214,3 @@ dependencies:
     - torch==1.5.0
     - torchvision==0.6.0
     - tqdm==4.45.0
-prefix: /home/skat00sh/miniconda3/envs/pytorch
-
